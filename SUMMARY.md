@@ -2,9 +2,69 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Linux installation
 
-* [Page 1](the-company/page-1.md)
+* [Page 1](linux-installation/page-1.md)
+
+## Linux basic command
+
+* [Page 1](linux-basic-command/page-1.md)
+
+## Web server installation
+
+* [Page 1](web-server-installation/page-1.md)
+
+## Mysql/Mariadb installation
+
+* [Page 1](mysql-mariadb-installation/page-1.md)
+
+## Docker Basic Concept
+
+* [Page 1](docker-basic-concept/page-1.md)
+
+## Docker Architecture
+
+* [Page 1](docker-architecture/page-1.md)
+
+## docker installation
+
+* [Page 1](docker-installation/page-1.md)
+
+## docker basic command
+
+* [Page 1](docker-basic-command/page-1.md)
+
+## Web service run using docker image
+
+* [Page 1](web-service-run-using-docker-image/page-1.md)
+
+## Docker image create
+
+* [Page 1](docker-image-create/page-1.md)
+
+## Docker volunmes
+
+* [Page 1](docker-volunmes/page-1.md)
+
+## PHP 8 installation
+
+* [Page 1](php-8-installation/page-1.md)
+
+## Nginx,PHP & Mysql install using docker composer
+
+* [Page 1](nginx-php-and-mysql-install-using-docker-composer/page-1.md)
+
+## CI/CD Basic Concept
+
+* [Page 1](ci-cd-basic-concept/page-1.md)
+
+## Jenkins Discuss & Install
+
+* [Page 1](jenkins-discuss-and-install/page-1.md)
+
+## Jenkins Basic Command
+
+* [Page 1](jenkins-basic-command/page-1.md)
 
 ## Copy of The Company
 
@@ -29,63 +89,3 @@
 ## Copy of The Company
 
 * [Page 1](copy-of-the-company-5/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-6/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-7/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-8/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-9/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-10/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-11/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-12/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-13/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-14/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-15/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-16/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-17/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-18/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-19/page-1.md)
-
-## Copy of The Company
-
-* [Page 1](copy-of-the-company-20/page-1.md)
