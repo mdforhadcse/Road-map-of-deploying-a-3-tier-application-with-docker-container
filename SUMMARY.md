@@ -2,9 +2,12 @@
 
 * [Welcome!](README.md)
 
-## Laravel Environment Setup and Run in Local Server (Windows)
+## Laravel Environment Setup and Run a Project in Local Server (Windows)
 
-* [Page 1](laravel-environment-setup-and-run-in-local-server-windows/page-1.md)
+* [Install XAMPP Server](laravel-environment-setup-and-run-a-project-in-local-server-windows/install-xampp-server.md)
+* [Install Composer for Laravel](laravel-environment-setup-and-run-a-project-in-local-server-windows/install-composer-for-laravel.md)
+* [Install a Code Editor](laravel-environment-setup-and-run-a-project-in-local-server-windows/install-a-code-editor.md)
+* [Final stage : Run the project](laravel-environment-setup-and-run-a-project-in-local-server-windows/final-stage-run-the-project.md)
 
 ## Linux basic command
 
