@@ -2,9 +2,9 @@
 
 * [Welcome!](README.md)
 
-## Linux installation
+## Laravel Environment Setup and Run in Local Server (Windows)
 
-* [Page 1](linux-installation/page-1.md)
+* [Page 1](laravel-environment-setup-and-run-in-local-server-windows/page-1.md)
 
 ## Linux basic command
 
