@@ -8,7 +8,7 @@
 * [Install Composer for Laravel](laravel-environment-setup-and-run-a-project-in-local-server-windows/install-composer-for-laravel.md)
 * [Install a Code Editor](laravel-environment-setup-and-run-a-project-in-local-server-windows/install-a-code-editor.md)
 * [Get the Laravel Project](laravel-environment-setup-and-run-a-project-in-local-server-windows/get-the-laravel-project.md)
-* [Final stage : Run the Laravel Project](laravel-environment-setup-and-run-a-project-in-local-server-windows/final-stage-run-the-laravel-project.md)
+* [Final stage : Run the Laravel Project](laravel-environment-setup-and-run-a-project-in-local-server-windows/final-stage-run-the-project.md)
 
 ## Linux basic command
 
